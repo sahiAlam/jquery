@@ -3,3 +3,28 @@
     color: red;
     font-family: cursive;
 }
+
+
+.box {
+    height: 200px;
+    background-color: red;
+    margin: 1rem auto;
+    width: 200px;
+    border-radius: 20px;
+}
+
+
+
+
+#show_btn {
+    margin-top: 5%;
+    padding: 0.5rem 2rem;
+    background-color: green;
+    color: white;
+    font-size: 1rem;
+    border: 0;
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    display: block;
+}
